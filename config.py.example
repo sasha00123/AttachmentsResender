@@ -1,0 +1,10 @@
+# IMAP credentials
+EMAIL_USER = "your-mail@yandex.ru"
+EMAIL_PASSWORD = "your-password"
+IMAP_HOST = "imap.yandex.ru"
+IMAP_PORT = 993
+SMTP_HOST = "smtp.yandex.ru"
+SMTP_PORT = 465
+
+# Who will receive email
+EMAIL_TO = "your-mail@gmail.com"
